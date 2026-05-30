@@ -22,42 +22,6 @@ Also, the profile picture here was drawn by me 🎨
 
 ---
 
-## 🚀 Featured Projects
-
-### AI-Assisted Career Operations Workflow
-
-A personal automation workflow for graduate job search, role filtering, application tracking and tailored document preparation.
-
-* Built role filtering and matching logic for data, IT support, FinTech and graduate roles.
-* Used structured job scoring to reduce irrelevant applications.
-* Generated tailored application materials for review.
-
-### RAG / Search-R1 Dataset Preparation
-
-Research assistant work supporting AI-driven knowledge extraction and retrieval evaluation.
-
-* Prepared PDF datasets for scientific and technical document ingestion.
-* Extracted tables, figures, labels and metadata.
-* Built structured QA datasets for RAG and Search-R1 evaluation.
-
-### OmniClick – Gesture & Gaze Controlled Browser Extension
-
-A real-time hands-free browser interaction system combining gaze tracking and gesture recognition.
-
-* Fine-tuned MPIIFaceGaze using 37,000+ samples.
-* Reduced angular gaze prediction error to 12.53 degrees.
-* Implemented client-side inference using TensorFlow.js.
-
-### DepthSense AI – Self-Supervised Stereo Vision
-
-A self-supervised stereo vision project focused on depth estimation and robotic navigation support.
-
-* Refactored PSMNet into a self-supervised stereo matching model.
-* Used photometric reconstruction and SSIM loss.
-* Achieved 2.86 EPE on evaluation.
-
----
-
 ## 💻 Tech Stack
 
 ### Programming & Data
@@ -104,6 +68,42 @@ A self-supervised stereo vision project focused on depth estimation and robotic 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
 ![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge\&logo=procreate\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### AI-Assisted Career Operations Workflow
+
+A personal automation workflow for graduate job search, role filtering, application tracking and tailored document preparation.
+
+* Built role filtering and matching logic for data, IT support, FinTech and graduate roles.
+* Used structured job scoring to reduce irrelevant applications.
+* Generated tailored application materials for review.
+
+### RAG / Search-R1 Dataset Preparation
+
+Research assistant work supporting AI-driven knowledge extraction and retrieval evaluation.
+
+* Prepared PDF datasets for scientific and technical document ingestion.
+* Extracted tables, figures, labels and metadata.
+* Built structured QA datasets for RAG and Search-R1 evaluation.
+
+### OmniClick – Gesture & Gaze Controlled Browser Extension
+
+A real-time hands-free browser interaction system combining gaze tracking and gesture recognition.
+
+* Fine-tuned MPIIFaceGaze using 37,000+ samples.
+* Reduced angular gaze prediction error to 12.53 degrees.
+* Implemented client-side inference using TensorFlow.js.
+
+### DepthSense AI – Self-Supervised Stereo Vision
+
+A self-supervised stereo vision project focused on depth estimation and robotic navigation support.
+
+* Refactored PSMNet into a self-supervised stereo matching model.
+* Used photometric reconstruction and SSIM loss.
+* Achieved 2.86 EPE on evaluation.
 
 ---
 
