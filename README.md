@@ -2,11 +2,11 @@
 > 
 > ——/// CURRENT OBJECTIVE: BUILD PRACTICAL AI + DATA SYSTEMS ///——
 
-# Hi, I'm Jingyi Liu 👋
+# Hi, I'm Jingyi(Ariel) Liu 👋
 
-Final-year Bachelor of Artificial Intelligence student at the University of Technology Sydney, building practical projects across AI, data analytics, RAG systems, workflow automation, computer vision and technical support.
+Final-year Bachelor of Artificial Intelligence student at the University of Technology Sydney, building practical projects across AI, data analytics, RAG systems, workflow automation, computer vision and technical support
 
-I enjoy connecting technical problem-solving with real-world workflows — from computer vision and retrieval evaluation to AI-assisted career automation.
+I enjoy connecting technical problem-solving with real-world workflows — from computer vision and retrieval evaluation to AI-assisted career automation
 
 Also, the profile picture here was drawn by me 🎨
 
@@ -14,15 +14,15 @@ Also, the profile picture here was drawn by me 🎨
 
 ## 💫 About Me
 
-🔭 I’m currently working on AI-powered job search automation, RAG/Search-R1 evaluation datasets, and document intelligence workflows.
+🔭 Current working: AI-powered job search automation + PhD Research Assistant in RAG/Search-R1 evaluation datasets + Document intelligence workflows
 
-🤝 I’m open to collaborating on AI agents, retrieval-augmented generation, data analytics, workflow automation, and beginner-friendly technology projects.
+🤝 Collaborating on AI agents, retrieval-augmented generation, data analytics, workflow automation
 
-🌱 I’m currently learning Power BI, Microsoft 365 fundamentals, IT support workflows, GitHub Actions, and practical data engineering.
+🌱 Learning Status: Power BI, Microsoft 365 fundamentals, IT support workflows, Software fullstack Development
 
-💬 Ask me about computer vision projects, RAG dataset preparation, SQL, Python, career automation, or transitioning from AI into data, FinTech and technical support roles.
+💬 Available Requests on: Computer vision projects, RAG dataset preparation, SQL, Python, Any artworks and UI support
 
-🎨 Creative side: I enjoy digital drawing, video editing and visual storytelling. I use Procreate, Adobe Photoshop, Adobe Illustrator, After Effects and Premiere Pro for personal creative projects.
+🎨 Creative side: I enjoy digital drawing, video editing and intepret - I use Procreate, Adobe Photoshop, Adobe Illustrator, After Effects and Premiere Pro for personal creative projects
 
 ---
 
@@ -123,7 +123,7 @@ A self-supervised stereo vision project focused on depth estimation and robotic 
 
 ## 📊 GitHub Activity
 
-I’m currently organising and uploading selected university, RAG, computer vision and automation projects.
+I’m currently organising and uploading selected university, RAG, computer vision and automation projects. This area is under construction!
 
 <!-- You can add GitHub stats here after uploading more repositories -->
 
