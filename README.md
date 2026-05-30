@@ -8,7 +8,7 @@ Final-year Bachelor of Artificial Intelligence student at the University of Tech
 
 I enjoy connecting technical problem-solving with real-world workflows — from computer vision and retrieval evaluation to AI-assisted career automation
 
-Also, the profile picture here was drawn by me 🎨
+← This profile picture here was drawn by myself 🎨
 
 ---
 
