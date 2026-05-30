@@ -1,3 +1,6 @@
+> ——/// AI STUDENT IN PROGRESS ///——
+> ——/// CURRENT OBJECTIVE: BUILD PRACTICAL AI + DATA SYSTEMS ///——
+
 # Hi, I'm Jingyi Liu 👋
 
 Final-year Bachelor of Artificial Intelligence student at the University of Technology Sydney, building practical projects across AI, data analytics, RAG systems, workflow automation, computer vision and technical support.
@@ -129,3 +132,11 @@ I’m currently organising and uploading selected university, RAG, computer visi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://linkedin.com/in/jingyi-liu-8a63a5208)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:aekrian0329@gmail.com)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=Kazannn&icon=0&color=0)](https://visitcount.itsvg.in)
